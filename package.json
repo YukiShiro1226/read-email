@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "mailparser": "^3.7.1",
+    "mailpop3": "^0.1.0",
+    "node-poplib-gowhich": "^1.0.2"
+  }
+}
